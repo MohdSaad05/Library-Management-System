@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  font-family: "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue";
+  font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,12 +10,12 @@ code {
   font-family: "Oswald";
 }
 .HomePage {
-  background-image: url("./Images/Libary.jpg");
-  height: 950px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-top: 10%;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(228, 208, 208);
 }
 .link_class {
   text-decoration: none;
@@ -24,23 +24,6 @@ code {
   text-align: center;
 }
 
-.LoginPage {
-  background-image: url("./Images/Libary.jpg");
-  height: 950px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-top: 10%;
-  filter: blur(5px);
-  -webkit-filter: blur(5px);
-}
-#circle {
-  height: 100px;
-  width: 100px;
-  border-radius: 50%;
-  background-color: red;
-  opacity: 1;
-}
 .LMS {
   margin-left: -102px;
   font-size: 50px;
