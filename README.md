@@ -49,20 +49,20 @@ The application should now be running at `http://localhost:3000`. You can access
 
 - Role Based Login Page
 
-![Home page]
+![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/role%20based%20login.png?raw=true)
 
 - Login Page
 
-![Home page]
+![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/admin%20login.png?raw=true)
 
 - Admin Panel
 
-![Home page]
+![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/admin%20home.png?raw=true)
 
 - User Panel
 
-![Home page]
+![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/user%20home.png?raw=true)
 
 - All book Available
 
-![Home page]
+![Home page](https://github.com/akgupta55/LMS/blob/main/project%20pic%20lms/all%20book.png?raw=true)
