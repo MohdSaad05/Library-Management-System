@@ -31,7 +31,6 @@ const Login = () => {
       }}
     >
       <div
-        className="login_container"
         style={{
           width: "400px",
           display: "flex",
@@ -110,17 +109,19 @@ const Login = () => {
         <Link
           to="/register"
           style={{
+            textAlign: "center",
             fontFamily: "sans-serif",
-            color: "white",
+            color: "black",
             textDecoration: "none",
           }}
         >
-          Ifyou don't have account then plz{" "}
+          If you don't have account then plz{" "}
           <span style={{ color: "blue", cursor: "pointer" }}>Register</span>
         </Link>
         <Link
           to="/"
           style={{
+            textAlign: "center",
             fontFamily: "sans-serif",
             color: "blue",
             textDecoration: "none",

@@ -32,7 +32,8 @@ const UserHome = () => {
           style={{
             height: "150px",
             width: "150px",
-            borderRadius: "50%",
+            // borderRadius: "50%",
+            marginBlock: "15px",
           }}
         />
         <h3 style={{ textAlign: "center" }}>

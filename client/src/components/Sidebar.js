@@ -21,7 +21,7 @@ const Sidebar = () => {
               color: "#f1f1f1",
               fontSize: "20px",
               marginLeft: "5px",
-              fontFamily: "Oswald",
+              fontFamily: "Nunito",
               cursor: "pointer",
             }}
           >
@@ -41,7 +41,7 @@ const Sidebar = () => {
               color: "#f1f1f1",
               fontSize: "20px",
               marginLeft: "5px",
-              fontFamily: "Oswald",
+              fontFamily: "Nunito",
               cursor: "pointer",
             }}
           >
@@ -63,7 +63,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -82,7 +82,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -101,7 +101,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -120,7 +120,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -139,7 +139,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -158,7 +158,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -177,7 +177,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -196,7 +196,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -221,7 +221,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -240,7 +240,7 @@ const Sidebar = () => {
                   color: "#f1f1f1",
                   fontSize: "20px",
                   marginLeft: "5px",
-                  fontFamily: "Oswald",
+                  fontFamily: "Nunito",
                   cursor: "pointer",
                 }}
               >
@@ -260,7 +260,7 @@ const Sidebar = () => {
               fontSize: "20px",
               color: "#fff",
               marginLeft: "2px",
-              fontFamily: "Oswald",
+              fontFamily: "Nunito",
               cursor: "pointer",
             }}
           >

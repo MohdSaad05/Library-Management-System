@@ -6,12 +6,24 @@ import AdminIMage from "../Images/admin2.jpg";
 const Home = () => {
   return (
     <div className="HomePage">
+      <div>
+        <h1
+          style={{
+            fontSize: "30px",
+            marginTop: "14px",
+            fontWeight: "700",
+            color: "red",
+          }}
+        >
+          Libaray Magement System
+        </h1>
+      </div>
+
       <div
         style={{
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          backgroundColor: "#454545",
           padding: "5%",
           borderRadius: "20px",
           gap: "20px",
@@ -37,7 +49,7 @@ const Home = () => {
           <br />
           <Link className="link_class" to="/adminLogin">
             {" "}
-            <h3 style={{ fontFamily: "Oswald" }}>Signin as Admin</h3>
+            <h3 style={{ fontFamily: "Nunito" }}>Signin as Admin</h3>
           </Link>
         </div>
         <div
@@ -60,7 +72,7 @@ const Home = () => {
           <br />
           <Link className="link_class" to="/login">
             {" "}
-            <h3 style={{ fontFamily: "Oswald" }}>Signin as Student</h3>
+            <h3 style={{ fontFamily: "Nunito" }}>Signin as Student</h3>
           </Link>
         </div>
       </div>

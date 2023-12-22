@@ -4,11 +4,7 @@ const Register = () => {
   return (
     <div>
       <div className="LoginPage"></div>
-      <div className="login_container">
-        <div style={{ marginLeft: "44%" }}>
-          <div id="circle"></div>
-          <h3 className="LMS_R">LMS</h3>
-        </div>
+      <div>
         <p style={{ color: "white", fontWeight: "800", textAlign: "center" }}>
           Welcome to Libary Management System
         </p>

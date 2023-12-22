@@ -32,7 +32,6 @@ const AdminLogin = () => {
       }}
     >
       <div
-        className="login_container"
         style={{
           width: "400px",
           display: "flex",
@@ -120,6 +119,7 @@ const AdminLogin = () => {
         <Link
           to="/"
           style={{
+            textAlign: "center",
             fontFamily: "sans-serif",
             color: "blue",
             textDecoration: "none",
