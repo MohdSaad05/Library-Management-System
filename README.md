@@ -1,4 +1,4 @@
-# Library Management System 
+# Library Management System (MERN)
 
 A full-stack Library Management System built using the MERN (MongoDB, Express.js, React, Node.js) stack. This application allows users to manage books, memberships, transactions, and reports efficiently.
 
@@ -22,7 +22,7 @@ A full-stack Library Management System built using the MERN (MongoDB, Express.js
 
 To start the application, run the following command in the project root directory:
 
-### `npm rubn server` for backend means into root directory
+### `npm run server` for backend means into root directory
 
 ### `npm run start` for frontend means client directory
 
@@ -34,16 +34,16 @@ To start the application, run the following command in the project root director
 - Login Page
     ![lms2](https://github.com/user-attachments/assets/9ff30f86-2e58-422a-a0d5-c81ea2b741fb)
 
-  - User Registration Page
+- User Registration Page
      ![lms3](https://github.com/user-attachments/assets/80b47169-8dba-4075-b82e-19fac9faba81)
 
-  - Admin Panel
+- Admin Panel
      ![lms6](https://github.com/user-attachments/assets/06705ee0-ff81-4ce2-9a07-cf654f625a6e)
 
-  - User Panel
+- User Panel
      ![lms4](https://github.com/user-attachments/assets/260a297e-781b-4fc3-958d-e7394b12bc23)
 
-  -  Available Books
+-  Available Books
       ![lms5](https://github.com/user-attachments/assets/ffb2e394-68e2-42ff-8305-40496935f3cd)
 
   # Thank You
